@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHvmZLCERL0e1O+fSdavCAwAAAAACAAAAAAAQZgAAAAEAACAAAAAl6SE+OBUbYC4RumIocARAFEUr+6UfHIyIhxllIWPp2wAAAAAOgAAAAAIAACAAAAABC2GMPpKLoEZYbUEHLotk17FGFjQVzzTpu3VG/ACEv4AAAAAAqLMpDejA0T7rrbapdDFI2uKxvCCbI7TGZA3SqWfiGRatVY8fj5HvcALuas1socC8EOxTNi/cB58+UitLDaU7F29/GzCdIF0YRJvLTLLwifFyZrIpzQRivSr5k0rjSES4D/Z5yLGoiJoqBDNX7ZR2v4Q+FrnGFANzuggSNAkQCUAAAABG8cgy6E7W6R0uCQKfg1CDQFt+mDYuLsPcbUbGO+xrnoyjYzxDRnN+A/otI2HYGOIT0ZEE2Zh9cVmltu05YtWA</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConDefinedData">
+      <Value>%40Microsoft.KeyVault%28SecretUri=https://rivtechvault-test.vault.azure.net/secrets/ConDefinedData/267c2bef415140809692ca6a68dadbfb%29</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="ConUserInfo">
+      <Value>%40Microsoft.KeyVault%28SecretUri=https://rivtechvault-test.vault.azure.net/secrets/ConDefinedData/267c2bef415140809692ca6a68dadbfb%29</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="LogDbConnection">
+      <Value>%40Microsoft.KeyVault%28SecretUri=https://rivtechvault-test.vault.azure.net/secrets/ConDefinedData/267c2bef415140809692ca6a68dadbfb%29</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

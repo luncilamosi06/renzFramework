@@ -1,0 +1,17 @@
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.deps.json
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.Framework.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Data.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Identity.DTO.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Data.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.csprojAssemblyReference.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.AssemblyInfoInputs.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.AssemblyInfo.cs
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.csproj.CopyComplete
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Service\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.Service.pdb

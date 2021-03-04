@@ -1,0 +1,12 @@
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.deps.json
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Data.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\bin\Debug\netcoreapp3.1\RivTech.WebService.Identity.DTO.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Data.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.csprojAssemblyReference.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.AssemblyInfoInputs.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.AssemblyInfo.cs
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.csproj.CopyComplete
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DTO\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.pdb

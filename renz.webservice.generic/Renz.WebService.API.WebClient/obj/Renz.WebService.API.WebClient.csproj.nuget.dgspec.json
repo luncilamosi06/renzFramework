@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.WebClient\\Renz.WebService.API.WebClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DataProvider\\Renz.WebService.API.DataProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DataProvider\\Renz.WebService.API.DataProvider.csproj",
+        "projectName": "Renz.WebService.API.DataProvider",
+        "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DataProvider\\Renz.WebService.API.DataProvider.csproj",
+        "packagesPath": "C:\\Users\\Renz Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DataProvider\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renz Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj": {
+                "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj"
+              },
+              "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\Renz.WebService.API.DTO.csproj": {
+                "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\Renz.WebService.API.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj",
+        "projectName": "Renz.WebService.API.Data",
+        "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj",
+        "packagesPath": "C:\\Users\\Renz Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renz Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\Renz.WebService.API.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\Renz.WebService.API.DTO.csproj",
+        "projectName": "Renz.WebService.API.DTO",
+        "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\Renz.WebService.API.DTO.csproj",
+        "packagesPath": "C:\\Users\\Renz Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renz Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj": {
+                "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[5.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Service\\Renz.WebService.API.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Service\\Renz.WebService.API.Service.csproj",
+        "projectName": "Renz.WebService.API.Service",
+        "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Service\\Renz.WebService.API.Service.csproj",
+        "packagesPath": "C:\\Users\\Renz Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renz Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DataProvider\\Renz.WebService.API.DataProvider.csproj": {
+                "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DataProvider\\Renz.WebService.API.DataProvider.csproj"
+              },
+              "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\Renz.WebService.API.DTO.csproj": {
+                "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.DTO\\Renz.WebService.API.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.WebClient\\Renz.WebService.API.WebClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.WebClient\\Renz.WebService.API.WebClient.csproj",
+        "projectName": "Renz.WebService.API.WebClient",
+        "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.WebClient\\Renz.WebService.API.WebClient.csproj",
+        "packagesPath": "C:\\Users\\Renz Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.WebClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renz Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj": {
+                "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Data\\Renz.WebService.API.Data.csproj"
+              },
+              "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Service\\Renz.WebService.API.Service.csproj": {
+                "projectPath": "C:\\Users\\Renz Ramos\\Documents\\Renz\\Personal\\Development\\Generic\\rivtech.webservice.generic\\Renz.WebService.API.Service\\Renz.WebService.API.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

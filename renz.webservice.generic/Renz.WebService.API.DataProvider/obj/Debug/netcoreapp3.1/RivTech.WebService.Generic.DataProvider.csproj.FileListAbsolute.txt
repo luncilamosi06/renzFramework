@@ -1,0 +1,15 @@
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.deps.json
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.Framework.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Data.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Identity.DTO.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.Data.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\bin\Debug\netcoreapp3.1\RivTech.WebService.Generic.DTO.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.csprojAssemblyReference.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.AssemblyInfoInputs.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.AssemblyInfo.cs
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.csproj.CopyComplete
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.DataProvider\obj\Debug\netcoreapp3.1\RivTech.WebService.Generic.DataProvider.pdb

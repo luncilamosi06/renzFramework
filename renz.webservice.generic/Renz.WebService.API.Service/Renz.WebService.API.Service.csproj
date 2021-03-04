@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Renz.WebService.API.DataProvider\Renz.WebService.API.DataProvider.csproj" />
+    <ProjectReference Include="..\Renz.WebService.API.DTO\Renz.WebService.API.DTO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="RivTech.Framework">
+      <HintPath>..\src\rivtech\RivTech.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="RivTech.WebService.Identity.DTO">
+      <HintPath>..\src\rivtech\RivTech.WebService.Identity.DTO.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

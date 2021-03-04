@@ -1,0 +1,10 @@
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\bin\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.deps.json
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\bin\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.runtimeconfig.json
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\bin\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.runtimeconfig.dev.json
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\bin\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\bin\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.pdb
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\obj\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.csprojAssemblyReference.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\obj\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.AssemblyInfoInputs.cache
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\obj\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.AssemblyInfo.cs
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\obj\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.dll
+C:\RivTechProject\Generic\rivtech.webservice.generic\RivTech.WebService.Generic.Data\obj\Release\netcoreapp3.1\RivTech.WebService.Generic.Data.pdb
